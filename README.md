@@ -2,7 +2,7 @@
 
 HATEOAS library to help create resources on the Node.js platform.
 
-[![build status](https://secure.travis-ci.org/mikehaas763/hateoasjs.png)](http://travis-ci.org/mikehaas763/hateoasjs)
+[![Build Status](https://travis-ci.org/mikehaas763/hateoasjs.png?branch=master)](https://travis-ci.org/mikehaas763/hateoasjs)
 
 ## Installation
 
